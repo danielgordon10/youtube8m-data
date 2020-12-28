@@ -3,9 +3,7 @@ import random
 
 import cv2
 import tqdm
-from dg_util.python_utils import misc_util
-from dg_util.python_utils import video_utils
-from dg_util.python_utils import youtube_utils
+from dg_util.python_utils import misc_util, video_utils, youtube_utils
 
 subset = "val"
 SCALE = 1

@@ -1,14 +1,13 @@
 import glob
-import os
+import itertools
 import multiprocessing as mp
+import os
+import pickle
+import urllib.request
 
 import numpy as np
 import tensorflow as tf
-import pickle
 import tqdm
-import urllib.request
-import itertools
-
 
 DATA_PATH = "shards/v2"
 
