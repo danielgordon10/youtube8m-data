@@ -1,0 +1,5 @@
+gdown
+numpy
+opencv-python
+tqdm
+git+https://github.com/danielgordon10/dg_util
