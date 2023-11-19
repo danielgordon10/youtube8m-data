@@ -6,9 +6,9 @@ If you just want the video urls and the labels, then you're in luck.
 
 Video ids and labels can be downloaded from:
 - [parsed_dataset_renamed_train.json](https://drive.google.com/uc?id=1V0bBAIY5HHNHFy-LQof4E2o58fpbF7z0)
-- [parsed_dataset_renamed_train.pkl"]("https://drive.google.com/uc?id=1Cz5CoRzrHznqj4ahtTSYAeQMk1_rRS_0)
-- [parsed_dataset_renamed_val.json"]("https://drive.google.com/uc?id=1B7Hik4rO_h-a9bXLu7cfbGecTufUbghz)
-- [parsed_dataset_renamed_val.pkl"]("https://drive.google.com/uc?id=1w5jwhxVFzcRwZ3RUwu5-gnptkG7sjwyz)
+- [parsed_dataset_renamed_train.pkl]("https://drive.google.com/uc?id=1Cz5CoRzrHznqj4ahtTSYAeQMk1_rRS_0)
+- [parsed_dataset_renamed_val.json]("https://drive.google.com/uc?id=1B7Hik4rO_h-a9bXLu7cfbGecTufUbghz)
+- [parsed_dataset_renamed_val.pkl]("https://drive.google.com/uc?id=1w5jwhxVFzcRwZ3RUwu5-gnptkG7sjwyz)
 
 Alternatively, run this script: `python download_dataset.py`
 
